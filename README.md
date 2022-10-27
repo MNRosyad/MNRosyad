@@ -2,7 +2,7 @@
 
 ![Snake Gif](https://github.com/MNRosyad/MNRosyad/blob/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">🔥 ┆ I'm using GitHub fo My personal projects ┆ 🔥</p>
+<p align="center">🔥 ┆ I'm using GitHub for My personal projects ┆ 🔥</p>
 
 <h3 align="left">💌 ┆ Alternative Social Media</h3>
 
