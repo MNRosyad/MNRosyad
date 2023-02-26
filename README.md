@@ -16,7 +16,7 @@
   <a href="https://www.twitch.tv/minerzarachnoid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=MinerzArachnoid&color=9146FF&logoColor=9146FF&labelColor=&style=flat" height="25" alt="twitch logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCYla1IiC1E0YXvax7w033iA" target="_blank">
+  <a href="https://www.youtube.com/@ThisIsArachnoid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=This is Arachnoid&color=FF0000&logoColor=FF0000&labelColor=&style=flat" height="25" alt="youtube logo"  />
   </a>
 </div>
